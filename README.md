@@ -48,6 +48,11 @@ The app follows the **BLoC (Business Logic Component)** pattern for state manage
 - **Widgets**: Reusable UI components
 - **Navigation**: Bottom navigation and screen routing
 
+
+### UI 
+![Untitled design](https://github.com/user-attachments/assets/e3f8b444-e5cb-4020-a6f7-e1e97db8bfa7)
+
+
 ## API Integration
 
 The app is designed to work with a REST API for authentication:
