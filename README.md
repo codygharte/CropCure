@@ -1,4 +1,6 @@
 # Crop Cure - Plant Disease Detection App
+![Purple Pink Gradient Mobile Application Presentation](https://github.com/user-attachments/assets/7aa443b0-bfaa-4030-a633-03aadc1d376b)
+
 
 A Flutter application for detecting plant diseases using AI technology, built with the BLoC pattern for state management.
 
